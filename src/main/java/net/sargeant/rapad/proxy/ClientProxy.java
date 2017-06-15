@@ -5,5 +5,5 @@ package net.sargeant.rapad.proxy;
  */
 public class ClientProxy extends CommonProxy
 {
-
+    
 }
