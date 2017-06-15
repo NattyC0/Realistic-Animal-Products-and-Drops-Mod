@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rapadmod",
+  "name": "Realistic Animal Products and Drops Mod",
+  "description": "Makes animal drops more realistic and adds new armor, items, and tools based on these new drops.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [sargeant789575, LeonelSaberTooth, The_Last_Dovahkiin],
+  "credits": "Forge/FML team for Forge/FML, The_Last_Dovahkiin for code, LeonelSaberTooth and sargeant789575 for textures, Mojang for Minecraft",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
